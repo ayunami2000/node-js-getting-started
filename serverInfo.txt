@@ -1,0 +1,8 @@
+{
+  "size_human": "41 MB",
+  "size_bytes": 43297559,
+  "file_name": "spigot-latest.jar",
+  "date_human": "July 12, 2018",
+  "date_epoch": 1531359603,
+  "mc_version": "Latest"
+}
